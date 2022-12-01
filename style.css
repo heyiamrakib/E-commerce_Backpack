@@ -1,0 +1,67 @@
+*{
+    padding: 0 ;
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+#aboutus{
+    background-color: #f9f9f9;
+}
+.container-fluid img {
+    width: 307px;
+    height: 56px;
+}
+.row img{
+    width: 70%;
+
+}
+.colorcode{
+    color: rgba(118,194,126,255);
+}
+.btn{
+    background-color: rgb(61, 24, 96);
+    color: white;
+    font-size: 20px;
+    margin-top: 0px
+}
+.btn:hover{
+    color: rgb(240, 94, 203);
+
+}
+.logopic img {
+    width: 99px;
+    margin: 36px;
+}
+.people img {
+    width: 100%;
+    margin-top: 125px;
+}
+.bagcard{
+    border: 10px;
+}
+.card{
+    overflow: hidden;
+}
+.cardphoto img {
+    width: 100%;
+    margin-left: auto;
+    height: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #dcdcdc80;
+}
+footer{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    text-align: center;
+    padding-top: 14px;
+}
+#contactus{
+    background-color: #f2f2f2;
+    height: 80vh;
+
+}
